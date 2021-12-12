@@ -1,0 +1,11 @@
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\bin\Debug\Finans.haberler.com-Bot.exe.config
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\bin\Debug\Finans.haberler.com-Bot.exe
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\bin\Debug\Finans.haberler.com-Bot.pdb
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\obj\Debug\Finans.haberler.com-Bot.csproj.AssemblyReference.cache
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\obj\Debug\Finans.haberler.com-Bot.csproj.CoreCompileInputs.cache
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\obj\Debug\Finans.haberler.com-Bot.csproj.CopyComplete
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\obj\Debug\Finans.haberler.com-Bot.exe
+C:\Users\ROOT\source\repos\Finans.haberler.com-Bot\Finans.haberler.com-Bot\obj\Debug\Finans.haberler.com-Bot.pdb
